@@ -1,0 +1,2 @@
+1. azure-ai-textanalytics
+2. azure-core
